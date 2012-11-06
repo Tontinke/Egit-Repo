@@ -1,0 +1,4 @@
+Egit-Repo
+=========
+
+szeminarium
